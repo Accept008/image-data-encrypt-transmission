@@ -1,0 +1,3 @@
+aes:
+  key: ${AES_KEY:CPfpNLbzlzBbvLEGP1LZCobEyvxn7Pbq}
+  iv: ${AES_IV:53YP80BtCvNjKlql}

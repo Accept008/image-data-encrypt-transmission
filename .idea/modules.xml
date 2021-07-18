@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example-image-encrypt-api/example-image-encrypt-api.iml" filepath="$PROJECT_DIR$/example-image-encrypt-api/example-image-encrypt-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/image-data-encrypt-transmission.iml" filepath="$PROJECT_DIR$/.idea/image-data-encrypt-transmission.iml" />
+    </modules>
+  </component>
+</project>
