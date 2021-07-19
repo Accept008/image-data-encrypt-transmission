@@ -1,10 +1,10 @@
 import request from '@/util/request'
 
 // 图片列表
-export function getPageImageList (parms) {
+export function getPageImageList () {
   return request({
-    url: '/image/pageImageList',
-    method: 'get',
-    params: parms
+    url: '/image/imageList',
+    method: 'get'
+    // params: parms
   })
 }
